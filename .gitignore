@@ -1,0 +1,17 @@
+# Environment variables with sensitive credentials
+.env
+
+# Cache directory
+.jamf_uptime_cache/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
