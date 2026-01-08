@@ -17,7 +17,7 @@ A bash script that generates a report of the top 25 Mac users with the longest u
 - **list-extension-attributes.sh** - Lists all extension attributes in your Jamf instance
 - **sample-computers.sh** - Shows first 10 computers for testing
 - **.env.example** - Template for environment variables (copy to `.env` and fill in)
-- **.env** - Your credentials (DO NOT COMMIT - excluded by .gitignore)
+- **ea-uptime** - this is the extension attribute script you add to jamf under settings --> computer management --> extension attributes
 - **.gitignore** - Ensures sensitive files aren't committed to git
 - **README.md** - This documentation
 
